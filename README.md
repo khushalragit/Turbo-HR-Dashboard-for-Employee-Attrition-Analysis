@@ -1,7 +1,5 @@
-
-That's fantastic! Congratulations on your accomplishment. Here's a draft for your GitHub README that captures the essence of your project:
-
 Advanced HR Dashboard for Turbo
+
 Overview
 Welcome to the Advanced HR Dashboard for Turbo! This project utilizes Power BI to provide a comprehensive, interactive, and user-friendly dashboard for monitoring and analyzing employee attrition. It incorporates key data points and insightful measures, delivering deep insights to aid in strategic HR decision-making.
 
